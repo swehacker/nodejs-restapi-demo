@@ -1,0 +1,17 @@
+{
+  "name": "restapi",
+  "version": "0.0.1",
+  "description": "A demo how to create a RestAPI w. NodeJS and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrik Falk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.5",
+    "node-restful": "^0.2.5"
+  }
+}
