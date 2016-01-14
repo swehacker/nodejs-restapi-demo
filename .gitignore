@@ -2,6 +2,9 @@
 logs
 *.log
 
+# MongoDB
+db
+
 # Runtime data
 pids
 *.pid
